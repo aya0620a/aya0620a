@@ -18,11 +18,11 @@
 ## 🌱 My Skills
 
 ### 🌎Languages
-<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby,swift,dart,go" />
+<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby" />
 * * *
 
 ### 📲FlameWork & Liblary
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,javascript,typescript" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs" />
 ***
 
 ### 🛠️Other Tools
