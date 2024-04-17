@@ -10,8 +10,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aya0620a&&theme=onedark&utcOffset=9)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya0620a&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=7fff00&icon_color=238636&text_color=ffffff)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aya0620a&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🧬Contributions
 ![](https://raw.githubusercontent.com/aya0620a/aya0620a/output/github-contribution-grid-snake.svg)
 
@@ -24,11 +22,11 @@
 * * *
 
 ### 📲FlameWork & Liblary
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,flutter,rails" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,javascript,typescript" />
 ***
 
 ### 🛠️Other Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,supabase,firebase,git,github,vscode,githubactions,vercel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,firebase,git,github,vscode" />
 ***
 
 ### 🎧Products
